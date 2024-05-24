@@ -1,0 +1,48 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/osteoporosis---primary.py
+inputModule3:
+  class: File
+  path: python/osteoporosis-malabsorption---primary.py
+inputModule4:
+  class: File
+  path: python/osteoporosis-lumbar---primary.py
+inputModule5:
+  class: File
+  path: python/osteoporotic-osteoporosis---primary.py
+inputModule6:
+  class: File
+  path: python/idiopathic-osteoporosis---primary.py
+inputModule7:
+  class: File
+  path: python/osteoporosis-postmenopausal---primary.py
+inputModule8:
+  class: File
+  path: python/osteoporosis-postoophorectomy---primary.py
+inputModule9:
+  class: File
+  path: python/vertebral-osteoporosis---primary.py
+inputModule10:
+  class: File
+  path: python/pathological-osteoporosis---primary.py
+inputModule11:
+  class: File
+  path: python/other-osteoporosis---primary.py
+inputModule12:
+  class: File
+  path: python/osteoporosis-localized---primary.py
+inputModule13:
+  class: File
+  path: python/osteoporosis-druginduced---primary.py
+inputModule14:
+  class: File
+  path: python/osteoporosis-unspecified---primary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
